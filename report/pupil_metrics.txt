@@ -1,0 +1,8 @@
+baseline_mm: 4.996
+min_mm: 3.463
+t_on: 60.0
+t_off: 69.8
+t_min: 69.0
+pct_constriction: 30.69
+latency_10pct_s: 0.2
+tau_recovery_s: 6.015
